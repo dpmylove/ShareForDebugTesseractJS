@@ -1,0 +1,14 @@
+
+.DS_Store
+node_modules
+cypress.env.json
+cypress/cucumber-json/
+cypress/test-results/
+cypress/videos/
+cypress/screenshots/
+cypress/snapshots/
+package-lock.json
+eyes.json
+node_modules
+cypress/e2e/1-testting-started
+cypress/e2e/2-advanced-examples
